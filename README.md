@@ -1,6 +1,8 @@
 #### Hi there, I'm AOXSIN 👋
 ##### Profiles: 
 ##### <a href=https://hackerone/aoxsin>Hackerone</a>
+##### <a href=https://bugcrowd.com/aoxsin>BUGCROWD</a>
+##### <a href=https://medium.com/@aoxsin>Medium</a>
 ##### Contacts:
 - ⚡ <a href=https://twitter.com/aoxsin>Twitter</a>
 
