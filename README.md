@@ -2,7 +2,7 @@
 ##### Profiles: 
 ##### <a href=https://hackerone.com/aoxsin>Hackerone</a>
 ##### <a href=https://bugcrowd.com/aoxsin>BUGCROWD</a>
-##### <a href=https://medium.com/@aoxsin>Medium</a>
+##### <a href=https://aoxsin.me>@aoxsin</a>
 ##### Contacts:
 - ⚡ <a href=https://twitter.com/aoxsin>Twitter</a>
 - ⚡ <a href=https://www.linkedin.com/in/aoxsin/>linkedin</a>
